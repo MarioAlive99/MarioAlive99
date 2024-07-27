@@ -36,7 +36,7 @@
 ## Proyectos terminados 📉.
 <table align="left">
   <tr border="none">
-    <td width="25%" align="center">
+    <td width="100%" align="center">
       <p align="center">
        <a href="#" title="Go to Source">
           <img align="center" width=50% src="https://raw.githubusercontent.com/MarioAlive99/MarioAlive99/main/assets/Banner%20Sistema%20Eventos%20ITGAM.png"   alt="VIDEO" /></a>
