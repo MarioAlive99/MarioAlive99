@@ -42,8 +42,8 @@
           <img align="center" width=50% src="https://raw.githubusercontent.com/MarioAlive99/MarioAlive99/main/assets/Banner%20Sistema%20Eventos%20ITGAM.png"   alt="VIDEO" /></a>
         </p>
       <p align="center">
-          <a href="https://www.gamadero.tecnm.mx/CODEFESTITGAM/" target="blank"><img align="center" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="@mariodevs"  /></a>
-        <a href="https://github.com/MarioAlive99/sistemaeventositgam.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@mariodevs" /></a>
+          <a href="https://www.gamadero.tecnm.mx/CODEFESTITGAM/" target="blank"><img align="center" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" /></a>
+          <a href="https://github.com/MarioAlive99/sistemaeventositgam.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p> 
   </td>
   </tr>
