@@ -10,7 +10,7 @@
 ## Tecnologias que estoy trabajando 👨🏼‍🎓
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,react" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,bootstrap,docker,express,firebase,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=azure,bootstrap,docker,express,firebase,tailwind" />
   </a>
 </p>
 
