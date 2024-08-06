@@ -34,20 +34,11 @@
 </p>
 
 ## Proyectos terminados 📉.
-<table align="left">
-  <tr border="none">
-    <td width="100%" align="center">
-      <p align="center">
-       <a href="#" title="Go to Source">
-          <img align="center" width=50% src="https://raw.githubusercontent.com/MarioAlive99/MarioAlive99/main/assets/Banner%20Sistema%20Eventos%20ITGAM.png"   alt="VIDEO" /></a>
-        </p>
-      <p align="center">
-          <a href="https://www.gamadero.tecnm.mx/CODEFESTITGAM/" target="blank"><img align="center" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" /></a>
-          <a href="https://github.com/MarioAlive99/sistemaeventositgam.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </p> 
-  </td>
-  </tr>
-</table>
+| Proyecto | Link | Imagen |
+|----------|------|---------------|
+|Sistema web de control y gestion para eventos en el ITGAM|[Link](https://www.gamadero.tecnm.mx/CODEFESTITGAM/)|![image](https://github.com/user-attachments/assets/8c450e44-1425-426f-9ade-6beb8542cf01)|
+|Portafolio personal con HTML y CSS|[Link](https://marioalive99.github.io/personal_portfolio/)|![image](https://github.com/user-attachments/assets/cc7fbaf5-d7d3-4441-95a3-315e0df8a923)|
+|Sistema Web de Peliculas con React.js|[Link](https://marioalive99.github.io/sistemaweb_peliculas/)|![image](https://github.com/user-attachments/assets/a10eab9d-6009-4604-bb39-8ab508028a82)|
 
 ## Contacto ☎.
 <p align="center">
