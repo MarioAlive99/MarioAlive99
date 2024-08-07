@@ -38,7 +38,6 @@
 |----------|------|---------------|
 |Sistema web de control y gestion para eventos en el ITGAM|[Link](https://www.gamadero.tecnm.mx/CODEFESTITGAM/)|![image](https://github.com/user-attachments/assets/8c450e44-1425-426f-9ade-6beb8542cf01)|
 |Portafolio personal con HTML y CSS|[Link](https://marioalive99.github.io/personal_portfolio/)|![image](https://github.com/user-attachments/assets/cc7fbaf5-d7d3-4441-95a3-315e0df8a923)|
-|Sistema Web de Peliculas con React.js|[Link](https://marioalive99.github.io/sistemaweb_peliculas/)|![image](https://github.com/user-attachments/assets/a10eab9d-6009-4604-bb39-8ab508028a82)|
 
 ## Contacto ☎.
 <p align="center">
