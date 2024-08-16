@@ -10,14 +10,14 @@
 ## Tecnologias que estoy trabajando 👨🏼‍🎓
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git" />
   </a>
 </p>
 
 ## Tecnologias que estoy estudiando 😊
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,java,laravel,spring,hibernate" />
+    <img src="https://skillicons.dev/icons?i=angular,java,laravel,spring,hibernate,react" />
   </a>
 </p>
 
@@ -34,10 +34,19 @@
 </p>
 
 ## Proyectos terminados 📉.
-| Proyecto | Link | Imagen |
-|----------|------|---------------|
-|Sistema web de control y gestion para eventos en el ITGAM|[Link](https://www.gamadero.tecnm.mx/CODEFESTITGAM/)|![image](https://github.com/user-attachments/assets/8c450e44-1425-426f-9ade-6beb8542cf01)|
-|Portafolio personal con HTML y CSS|[Link](https://marioalive99.github.io/personal_portfolio/)|![image](https://github.com/user-attachments/assets/cc7fbaf5-d7d3-4441-95a3-315e0df8a923)|
+<div align="center">
+
+| <img src="https://github.com/user-attachments/assets/8c450e44-1425-426f-9ade-6beb8542cf01" alt="Sistema Eventos ITGAM" width="300"/> <br> <strong><span style="color:pink;">Sistema Web de Eventos ITGAM. <a href="https://www.gamadero.tecnm.mx/CODEFESTITGAM/" target="_blank" style="color:blue;">Link</a></span></strong> | <img src="https://github.com/user-attachments/assets/cc7fbaf5-d7d3-4441-95a3-315e0df8a923" alt="Portafolio Personal" width="300"/> <br> <strong><span style="color:grey;">Portafolio Personal. <a href="https://marioalive99.github.io/personal_portfolio/" target="_blank" style="color:blue;">Link</a></span></strong> | <img src="https://github.com/user-attachments/assets/f70254dc-52fe-40d3-9aab-f4cdbf49987b" alt="Curso JavaScript" width="300"/> <br> <strong><span style="color:yellow;">Curso completo de JavaScript. <a href="https://www.example.com" target="_blank" style="color:blue;">Link</a></span></strong> |
+|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
+</div>
+
+## Cursos 📕
+<div align="center">
+  
+| <img src="https://github.com/user-attachments/assets/c5b52d40-9331-479d-99e7-09b6aeff4738" width="300"/> <br> <strong><span style="color:yellow;">Curso completo de JavaScript. <a href="https://www.gamadero.tecnm.mx/CODEFESTITGAM/" target="_blank" style="color:blue;">Link</a></span></strong> | <img src="https://github.com/user-attachments/assets/1eb0ca3e-462c-44a5-a7bb-1cfd11de0490" alt="ReactJS" width="300"/> <br> <strong><span style="color:blue;">Curso de React. <a href="https://github.com/MarioAlive99/curso-react" target="_blank" style="color:blue;">Link</a></span></strong> |
+|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
+
+</div>
 
 ## Contacto ☎.
 <p align="center">
