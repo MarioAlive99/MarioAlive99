@@ -1,7 +1,7 @@
 ![Banner Proyecto](https://github.com/user-attachments/assets/272fe5d0-e311-4f91-8bd2-783064fc7b6b)
 
 <h1 align="center">Hola 👋, yo soy MarioDevs</h1>
-<h3 align="center">Un desarrollador de React + Spring Boot desde México</h3>
+<h3 align="center">Un desarrolladxr de React + Spring Boot desde México</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marioalive99&label=Profile%20views&color=0e75b6&style=flat" alt="marioalive99" /> </p>
 
