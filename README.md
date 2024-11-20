@@ -1,17 +1,17 @@
 ![Mario Ale - Programador Web](https://raw.githubusercontent.com/MarioAlive99/MarioAlive99/master/assets/mario_devs_banner.png)
 
-<h1 align="center">Hola 👋, yo soy MarioAlive99</h1>
-<h3 align="center">Un desarrollador frontend React desde México</h3>
+<h1 align="center">Hola 👋, yo soy MarioDevs</h1>
+<h3 align="center">Un desarrollador de React + Spring Boot desde México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioalive99&label=Profile%20views&color=0e75b6&style=flat" alt="marioalive99" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [Un proyecto personal con REST API](https://github.com/MarioAlive99/calculadora_propinas)
+- 🔭 Actualmente estoy trabajando en [Proximamente! Un nuevo proyecto de React + Spring Boot + MySQL](https://github.com/MarioAlive99/calculadora_propinas)
 
-- 🌱 Actualmente estoy estudiando **React**
+- 🌱 Actualmente estoy estudiando **Spring Boot**
 
-- 👨‍💻 Todos mis proyectos estan en [https://marioalive99.github.io/personal_portfolio/](https://marioalive99.github.io/personal_portfolio/)
+- 👨‍💻 Todos mis proyectos estan en [https://marioalive99.github.io/](https://marioalive99.github.io/)
 
-- 💬 Preguntame acerca de **React, Vue y cosas así...**
+- 💬 Preguntame acerca de **React, Spring Boot, Java y cosas así...**
 
 - 📫 Como contactame? **marycosplay25@outlook.com**
 
@@ -45,22 +45,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marioalive99&show_icons=true&locale=en&layout=compact" alt="marioalive99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marioalive99&show_icons=true&locale=en" alt="marioalive99" /></p>
-
-
-## Proyectos terminados 📉.
-<div align="center">
-
-| <img src="https://github.com/user-attachments/assets/8c450e44-1425-426f-9ade-6beb8542cf01" alt="Sistema Eventos ITGAM" width="300"/> <br> <strong><span style="color:pink;">Sistema Web de Eventos ITGAM. <a href="https://www.gamadero.tecnm.mx/CODEFESTITGAM/" target="_blank" style="color:blue;">Link</a></span></strong> | <img src="https://github.com/user-attachments/assets/cc7fbaf5-d7d3-4441-95a3-315e0df8a923" alt="Portafolio Personal" width="300"/> <br> <strong><span style="color:grey;">Portafolio Personal. <a href="https://marioalive99.github.io/personal_portfolio/" target="_blank" style="color:blue;">Link</a></span></strong> | <img src="https://github.com/user-attachments/assets/f70254dc-52fe-40d3-9aab-f4cdbf49987b" alt="Curso JavaScript" width="300"/> <br> <strong><span style="color:yellow;">Curso completo de JavaScript. <a href="https://github.com/MarioAlive99/curso-javascript" target="_blank" style="color:blue;">Link</a></span></strong> |
-|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
-</div>
-
-## Cursos 📕
-<div align="center">
-  
-| <img src="https://github.com/user-attachments/assets/c5b52d40-9331-479d-99e7-09b6aeff4738" width="300"/> <br> <strong><span style="color:yellow;">Curso completo de JavaScript. <a href="https://github.com/MarioAlive99/curso-javascript" target="_blank" style="color:blue;">Link</a></span></strong> | <img src="https://github.com/user-attachments/assets/1eb0ca3e-462c-44a5-a7bb-1cfd11de0490" alt="ReactJS" width="300"/> <br> <strong><span style="color:blue;">Curso de React. <a href="https://github.com/MarioAlive99/curso-react" target="_blank" style="color:blue;">Link</a></span></strong> |
-|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
-
-</div>
 
 ## Contacto ☎.
 <p align="center">
