@@ -3,7 +3,8 @@
 <h1 align="center">Hola 👋, yo soy MarioDevs</h1>
 <h3 align="center">Un desarrollador de React + Spring Boot desde México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marioalive99&label=Profile%20views&color=0e75b6&style=flat" alt="marioalive99" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=marioalive99&label=Profile%20views&color=0e75b6&style=flat" alt="marioalive99" /> </p>
+
 
 - 🔭 Actualmente estoy trabajando en [Proximamente! Un nuevo proyecto de React + Spring Boot + MySQL](https://github.com/MarioAlive99/calculadora_propinas)
 
@@ -61,12 +62,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marioalive99&show_icons=true&locale=en" alt="marioalive99" /></p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marioalive99" alt="marioalive99" /></a> </p>
+
 ## Contacto ☎.
 <p align="center">
   <a href="https://skillicons.dev">
-    <a href="https://www.google.com.mx/?hl=es"><img src="https://skillicons.dev/icons?i=gmail" /></a>
     <a href="https://www.linkedin.com/in/mario-5a13871a7/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-    <a href=""><img src="https://skillicons.dev/icons?i=instagram" /></a>
     <a href="https://github.com/MarioAlive99"><img src="https://skillicons.dev/icons?i=github" /></a>
   </a>
 </p>
